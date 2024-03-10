@@ -2,7 +2,7 @@
 
 - Open the terminal and just type,
 ```
-typiz -m <msg> -n <number of times> -t <delay time>
+typiz -m <message> -n <number of times> -t <delay time>
 ```
 for example:
 ```
