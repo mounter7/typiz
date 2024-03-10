@@ -4,6 +4,9 @@
     ### or
 - Open the command prompt(cmd) in windows and just type,
 ```
+pip install -r requirements.txt
+```
+```
 typiz -m <message> -n <number of times> -t <delay time>
 ```
 for example:
