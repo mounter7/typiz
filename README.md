@@ -1,6 +1,8 @@
 # Typiz
 
-- Open the terminal and just type,
+- Open the terminal in linux or mac
+    or
+- Open the command prompt(cmd) in windows and just type,
 ```
 typiz -m <message> -n <number of times> -t <delay time>
 ```
