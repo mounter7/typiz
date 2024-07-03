@@ -1,4 +1,4 @@
-# Typiz
+# Typiz | Write the Same Phrases Repeatedly
 
 ### Typiz is a Python-based auto typing tool designed to help you automate repetitive typing tasks. Whether you need to write the same phrases repeatedly, Typiz can save you time and effort by typing for you accurately and efficiently. Simply configure your typing needs, and let Typiz handle the rest!
 
