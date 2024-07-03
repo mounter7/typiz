@@ -12,11 +12,11 @@ pip install -r requirements.txt
 typiz -m <message> -n <number of times> -t <delay time>
 ```
 - m: Message
-  The message you want to type.
+  (The message you want to type)
 - n: Number of times
-  How many times that you want to type the message.
+  (How many times that you want to type the message)
 - t: Delay time
-  Free time you want to setup your mouse cursor.
+  (Free time you want to setup your mouse cursor)
 
 for example:
 ```
