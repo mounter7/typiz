@@ -1,5 +1,7 @@
 # Typiz
 
+Typiz is a Python-based auto typing tool designed to help you automate repetitive typing tasks. Whether you need to write the same phrases repeatedly, Typiz can save you time and effort by typing for you accurately and efficiently. Simply configure your typing needs, and let Typiz handle the rest!
+
 - Open the terminal in linux or mac
     ### or
 - Open the command prompt(cmd) in windows and just type,
