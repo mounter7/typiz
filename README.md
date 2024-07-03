@@ -2,8 +2,8 @@
 
 Typiz is a Python-based auto typing tool designed to help you automate repetitive typing tasks. Whether you need to write the same phrases repeatedly, Typiz can save you time and effort by typing for you accurately and efficiently. Simply configure your typing needs, and let Typiz handle the rest!
 
-[Install for windows](https://github.com/mounter7/typiz/releases/download/typiz-1.0v/typiz.zip)
-[Install for linux or Mac OS](https://github.com/mounter7/typiz/archive/refs/heads/main.zip)
+- [Install for windows](https://github.com/mounter7/typiz/releases/download/typiz-1.0v/typiz.zip)
+- [Install for linux or Mac OS](https://github.com/mounter7/typiz/archive/refs/heads/main.zip)
 
 ## Steps
 1. Open the terminal
