@@ -5,7 +5,7 @@
 - [Install for Windows](https://github.com/mounter7/typiz/releases/download/typiz-1.0v/typiz.zip)
 - [Install for Linux, Android or Mac OS](https://github.com/mounter7/typiz/archive/refs/heads/main.zip)
 
-## Steps for Windows users
+## Steps for Windows Users
 1. Open the terminal
 
 2. Install packages
@@ -29,7 +29,9 @@ for example:
 typiz -m "Hey guys!" -n 100 -t 5
 ```
 
-## Steps for Linux, Android & Mac OS users
+[Screenshot](screenshot.png)
+
+## Steps for Linux, Android & Mac OS Users
 1. Open the terminal
 
 2. Install packages
