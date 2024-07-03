@@ -14,4 +14,7 @@ for example:
 typiz -m "Hey guys!" -n 100 -t 5
 ```
 
+Screenshot
+![Typiz | Screenshot](screenshot.png)
+
 Created by Ravindu Madhushankha
