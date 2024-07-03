@@ -1,3 +1,6 @@
+# Typiz
+# Created by Ravindu Madhushankha
+
 import argparse
 import time
 
