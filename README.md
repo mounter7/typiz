@@ -36,6 +36,9 @@ typiz -m "Hey guys!" -n 100 -t 5
 
 2. Install packages
 ```
+apt-get update
+apt-get -y install python3
+apt-get -y install python3-pip
 pip install -r requirements.txt
 ```
 3. Check the version
